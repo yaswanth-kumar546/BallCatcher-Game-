@@ -1,0 +1,23 @@
+NAME: Yejarla Yaswanth Kumar
+COMPANY: TechnoHack Solutions PVT LTD
+DOMAIN: Python Development
+INTERN ID: 
+DURATION: 15th January to 15th February 
+
+OVER VIEW OF THE PROJECT:
+PROJECT: BALL CATCHER GAME THROUGH PYTHON
+
+This project is a simple yet fun game called "Catch the Ball" developed using Python and the Pygame library. The objective of the game is to catch the falling ball with the paddle. Each successful catch increases the player's score.
+
+Features:
+   * Player Control: Move the paddle left or right to catch the ball.
+   * Ball Movement: The ball continuously falls from the top of the screen.
+   * Collision Detection: Detects collisions between the paddle and the ball.
+   * Score Display: Keeps track of and displays the player's score.
+
+Future Enhancements:
+   * Add different levels with increasing difficulty.
+   * Introduce different types of balls with varying speeds.
+   * Implement a scoring system with high scores.
+   * Add sound effects and background music for a more immersive experience.
+   * Create a start menu and game-over screen.
